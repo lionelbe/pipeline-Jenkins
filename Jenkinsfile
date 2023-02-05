@@ -50,5 +50,6 @@ pipeline {
             steps {
                 echo 'mabranche'
             }
+	}
     }
 }
